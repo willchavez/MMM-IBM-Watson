@@ -1,0 +1,22 @@
+{
+  "name": "mmm-ibm-watson",
+  "version": "0.0.0",
+  "description": "IBM Watson moduel for MagicMirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willchavez/MMM-IBM-Watson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willchavez/MMM-IBM-Watson/issues"
+  },
+  "homepage": "https://github.com/willchavez/MMM-IBM-Watson#readme",
+  "dependencies": {
+    "watson-developer-cloud": "^3.18.1"
+  }
+}
